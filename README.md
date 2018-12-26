@@ -1,11 +1,12 @@
 ##### click [new release v1.0](https://github.com/JurassicParkClan/Dragon-Mania-Legends-Helpers/releases/download/v1.0.0-alpha/DML.Helpers.v1.0.exe)  to download if your are using an old version
+###### (see your current version on the window title)
 
 ## Welcom to join our clan!:wink:
 ![JurassicPark](JurassicPark.png "Welcome to join us!")
 
 
 ##### On Going Special Event (*Irregular update*)
-From [Dragon-Mania-Legends-Wiki](http://dragon-mania-legends-wiki.mobga.me/Main_Page)
+*From* <a href="http://dragon-mania-legends-wiki.mobga.me/Main_Page" target="_blank">*Dragon-Mania-Legends-Wiki*</a>
 
 <a width="300" height="100" href="http://dragon-mania-legends-wiki.mobga.me/Winter_Hymn_(18/12/24)" target="_blank">![[Winter_Hymn_(18/12/24)]](http://dragon-mania-legends-wiki.mobga.me/images/5/5c/Special_Event_Generic_Banner.jpg "Winter Hymn")</a>   
 
