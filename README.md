@@ -1,4 +1,4 @@
-##### click [new release v1.0](https://github.com/JurassicParkClan/Dragon-Mania-Legends-Helpers/releases/download/v1.0.0-alpha/DML.Helpers.v1.0.exe)  to download if your are using an old version
+##### click [here](https://jurassicparkclan.github.io/Dragon-Mania-Legends-Helpers/) to download if your are using an old version
 ###### (see your current version on the window title)
 
 ## Welcom to join our clan!:wink:
