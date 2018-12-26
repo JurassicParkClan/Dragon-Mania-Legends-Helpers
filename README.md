@@ -1,5 +1,5 @@
 
-## Welcom to join us!
+## Welcom to join us!:wink:
 ![JurassicPark](JurassicPark.png "Welcome to join us!")
 
 ##### click [new release v1.0](https://github.com/JurassicParkClan/Dragon-Mania-Legends-Helpers/releases/download/v1.0.0-alpha/DML.Helpers.v1.0.exe)  to download if your are using an old version
