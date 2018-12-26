@@ -1,7 +1,7 @@
-##### click [here](https://jurassicparkclan.github.io/Dragon-Mania-Legends-Helpers/) to download if your are using an old version
+##### click [here(*not available yet*)](https://jurassicparkclan.github.io/Dragon-Mania-Legends-Helpers/) to download if your are using an old version
 ###### (see your current version on the window title)
 
-## Welcom to join our clan!:wink:
+## Welcom to join our clan! :wink:
 ![JurassicPark](JurassicPark.png "Welcome to join us!")
 
 
