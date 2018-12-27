@@ -4,11 +4,11 @@
 ## Welcom to join our clan!
 ![JurassicPark](JurassicPark.png "Welcome to join us!")
 
-###脚本操作说明
-######打开脚本后，点击游戏窗口，按下列按键
-#####F12 : 重新打开脚本(不想继续跑脚本的时候用)
-#####F11 : 开始看转盘广告
-#####F10 : 开始送礼物
+### 脚本操作说明
+###### 打开脚本后，点击游戏窗口，按下列按键
+##### F12 : 重新打开脚本(不想继续跑脚本的时候用)
+##### F11 : 开始看转盘广告
+##### F10 : 开始送礼物
 <br>
 
 ##### On Going Special Event (*updat irregularly*)
